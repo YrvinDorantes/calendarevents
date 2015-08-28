@@ -1,0 +1,24 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Startdate:</strong>
+  <%= @event.startdate %>
+</p>
+
+<p>
+  <strong>Enddate:</strong>
+  <%= @event.enddate %>
+</p>
+
+<p>
+  <strong>Titulo:</strong>
+  <%= @event.titulo %>
+</p>
+
+<p>
+  <strong>Daycomplet:</strong>
+  <%= @event.daycomplet %>
+</p>
+
+<%= link_to 'Edit', edit_event_path(@event) %> |
+<%= link_to 'Back', events_path %>
