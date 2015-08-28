@@ -15,3 +15,6 @@ Event.create(startdate:"2015-10-20 08:00:00", enddate:"2015-10-20 09:00:00", tit
 Event.create(startdate:"2015-06-10 15:00:00", enddate:"2015-06-10 17:00:00", titulo:"Junta Trimestral", daycomplet: "No")
 Event.create(startdate:"2015-12-31 15:00:00", enddate:"2015-12-31 17:00:00", titulo:"Junta Reflexiona", daycomplet: "No")
 Event.create(startdate:"2015-11-17 08:00:00", enddate:"2015-11-17 18:00:00", titulo:"Junta Nuevo Proyecto", daycomplet: "No")
+Event.create(startdate:"2015-12-12 00:00:00", enddate:"2015-12-12 23:59:00", titulo:"Junta Nuevo Proyecto", daycomplet: "Si")
+Event.create(startdate:"2015-08-27 08:00:00", enddate:"2015-08-27 10:00:00", titulo:"Junta Nuevo Proyecto", daycomplet: "No")
+Event.create(startdate:"2015-08-27 12:00:00", enddate:"2015-08-27 14:00:00", titulo:"Junta Nuevo Proyecto", daycomplet: "No")
